@@ -1,0 +1,9 @@
+what are involve the steps in cloud formation ?
+ANS. 1---->Logging in to the console.
+     2---->Creating a stack. Selecting a stack template. Specifying stack name and parameters. Setting stack options. ...
+     3---->Creating an EC2 key pair.
+     4---->Viewing stack data and resources.
+     5---->Monitor and roll back stack operations.
+     6---->Creating quick-create links for stacks.
+     7---->Deleting a stack.
+     8---->Protecting a stack from being deleted.
